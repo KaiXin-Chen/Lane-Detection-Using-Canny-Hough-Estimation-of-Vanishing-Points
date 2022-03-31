@@ -1,5 +1,5 @@
 # Lane Detection Using Canny Hough Estimation of Vanishing Points (CHEVP)
-## Example result
+## Example
 ![example](https://github.com/KaiXin-Chen/Lane-Detection-Using-Canny-Hough-Estimation-of-Vanishing-Points/blob/main/Image_for_readme.png)
 ## Basic info
 This is a class project for Stanford CS231A, which detects the direction of a lane. This is a reimplementation of the closed source project "Lane detection and tracking using B-Snake" by Yue Wang, Eam Khwang Teoha, Dinggang Shen. We first reimplemented CHEVP from scratch with aid from OpenCV functions (cv2.houghP() and cv2.Canny()), then we reimplemented the OpenCV functions we used as well (reimplemented cv2.houghP() and cv2.Canny()). 
